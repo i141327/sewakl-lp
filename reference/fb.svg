@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="グループ_7603" data-name="グループ 7603" transform="translate(-178 -8003)">
+    <g id="Icon" transform="translate(185 8011)">
+      <rect id="Area" width="26" height="24" transform="translate(0 0.466)" fill="#669f4f" opacity="0"/>
+      <g id="Icon-2" data-name="Icon" transform="translate(6.204)">
+        <path id="_9c1bc1df-c50a-496d-b994-390f18cfe9a6" data-name="9c1bc1df-c50a-496d-b994-390f18cfe9a6" d="M25.706,3.5h-3.67A6.117,6.117,0,0,0,15.92,9.616v3.67H12.25v4.893h3.67v9.786h4.893V18.179h3.67l1.223-4.893H20.813V9.616a1.224,1.224,0,0,1,1.223-1.223h3.67Z" transform="translate(-12.25 -3.5)" fill="#669f4f"/>
+      </g>
+    </g>
+    <g id="楕円形_232" data-name="楕円形 232" transform="translate(178 8003)" fill="none" stroke="#669f4f" stroke-width="1">
+      <circle cx="20" cy="20" r="20" stroke="none"/>
+      <circle cx="20" cy="20" r="19.5" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+BrightTag.site('7zKw5g5',function(s){
+s.script('https://s.yimg.jp/images/listing/tool/cv/ytag.js').wait(function(){
+s.tag('\x3cscript type\x3d\x22text/javascript\x22\x3e\n          yjDataLayer \x3d window.yjDataLayer || [];\n\n          function ytag() {\n            yjDataLayer.push(arguments);\n          }\n\n          ytag({\x22type\x22:\x22ycl_cookie\x22});\n      \x3c/script\x3e',{tagId:-3});
+s.domready(function(){
+s.tag('\x3cscript async src\x3d\x22https://s.yimg.jp/images/listing/tool/cv/ytag.js\x22\x3e\x3c/script\x3e\n\x3cscript\x3e\nwindow.yjDataLayer \x3d window.yjDataLayer || [];\nfunction ytag() { yjDataLayer.push(arguments); }\nytag({\x22type\x22:\x22ycl_cookie\x22});\n\x3c/script\x3e',{tagId:107503848});
+s.tag('\x3cscript type\x3d\x22text/javascript\x22\x3e\n        window.yjDataLayer\x3d window.yjDataLayer|| [];\n      function ytag() { yjDataLayer.push(arguments); }\n\n        ytag({\n        \x22type\x22:\x22yss_retargeting\x22,\n        \x22config\x22: {\n          \x22yahoo_ss_retargeting_id\x22: "1001130262",\n          \x22yahoo_sstag_custom_params\x22: typeof window.yahoo_sstag_params \x3d\x3d\x3d \x27undefined\x27 ? {} : window.yahoo_sstag_params\n        }\n      });\n      \x3c/script\x3e',{tagId:107503856});
+s.tag('\x3cscript type\x3d\x22text/javascript\x22\x3e\n        window.yjDataLayer\x3d window.yjDataLayer|| [];\n      function ytag() { yjDataLayer.push(arguments); }\n\n        window.yahoo_report_conversion \x3d function(url) {\n        var opt \x3d {\n          \x22yahoo_conversion_id\x22: "1001130262",\n          \x22yahoo_conversion_label\x22: "uDR3COuS2dMBEPTLjKoC",\n          \x22yahoo_conversion_value\x22: \x270\x27.replace(\x27$\x27,\x27\x27) || \x270\x27,\n          \x22yahoo_remarketing_only\x22: false,\n          \x22onload_callback\x22: function() {\n            if (typeof(url) !\x3d \x27undefined\x27) {\n              window.location \x3d url;\n            }\n          }\n        };\n        ytag({\x22type\x22:\x22yss_call_conversion\x22, \x22config\x22: opt});\n      }\n      \x3c/script\x3e',{tagId:107504002,group:'yjss'});
+});
+});
+});
